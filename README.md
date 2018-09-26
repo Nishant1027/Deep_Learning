@@ -3,3 +3,4 @@
 # Multi-Neural Network Modal Using Forward Propogation Algorithm
 # Error Handling
 # Mean Square Error Function Using Sklearn Library In Python
+msavslv
