@@ -5,3 +5,4 @@
 # Mean Square Error Function Using Sklearn Library In 
 # Gradient Descent in Deep Learning
 # Kera Model
+# Compile And Fit The Kera Model
