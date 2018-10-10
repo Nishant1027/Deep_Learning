@@ -7,3 +7,4 @@
 # Kera Model
 # Compile And Fit The Kera Model
 # Classification In Kera
+# Predication In Kera
