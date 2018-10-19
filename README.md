@@ -8,3 +8,4 @@
 # Compile And Fit The Kera Model
 # Classification In Kera
 # Predication In Kera
+# Optimizer in Kera 
