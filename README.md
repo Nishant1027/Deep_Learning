@@ -9,3 +9,4 @@
 # Classification In Kera
 # Predication In Kera
 # Optimizer in Kera 
+# Accuracy In Validation Set
